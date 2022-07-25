@@ -1,9 +1,9 @@
 {
   "name": "ignite-feed-ts",
-  "homepage": "https://guiaquinodev.github.io/ignite-feed",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://guiaquinodev.github.io/ignite-feed/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
