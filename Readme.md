@@ -43,7 +43,7 @@ com funcionalidades de comentários, likes e apagar comentário.
 - Componentização
 - Imutabilidade do estado
 - Propriedades
-- Validação de formulário
+- Validação
 
 &#xa0;
 
