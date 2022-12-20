@@ -10,18 +10,17 @@
 </h3>
 
 <p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2306b656?style=flat-square">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/dev-guilherme-aquino/">
-    <img alt="Solved by Guilherme Aquino" src="https://img.shields.io/badge/solved%20by-Guilherme%20Aquino-%2306b656?style=flat-square">
-  </a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">Licença</a>
 </p>
+
 
 &#xa0;
 
-## :rocket: Sobre o projeto
+## :rocket: Projeto
 
  <p align="center">
  <img src="./.github/ignite-feed.png" alt="Feed"/>
