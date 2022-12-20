@@ -16,5 +16,6 @@
 
         .wrapper {
             grid-template-columns: 1fr;
+            
         }
     }
